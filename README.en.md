@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 077
+# 🦁 XXD Panel 077｜Travel Magazine Illustration
 
 ### Rebuild photographs as layered paper sculpture with soft light and humanist travel-editorial warmth
 

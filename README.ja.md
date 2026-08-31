@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 077
+# 🦁 XXD Panel 077｜旅雑誌イラスト
 
 ### 写真を、柔らかな影と人間味ある色を持つ紙彫刻の旅雑誌へ
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 077
+# 🦁 XXD Panel 077｜旅行杂志画
 
 ### 把照片重构成有纸张层次、柔和光影与人文温度的旅行杂志拼贴
 
