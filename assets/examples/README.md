@@ -14,4 +14,17 @@ This directory contains the reviewed extension samples displayed by all five loc
 - Each work was generated independently from Panel 077's canonical prompt, uses intelligent English copy, and was reviewed for the correct comparison direction.
 - No artwork from another numbered Panel, broken placeholder, or banner is accepted as a sample.
 
+## Source mapping
+
+- `sample-05.png` ← `group_011/041.jpg`
+- `sample-06.png` ← `group_011/042.webp`
+- `sample-07.png` ← `group_011/043.jpg`
+- `sample-08.png` ← `group_011/044.jpg`
+- `sample-09.png` ← `group_016/061.jpg`
+- `sample-10.png` ← `group_016/062.jpg`
+- `sample-11.png` ← `group_016/063.jpg`
+- `sample-12.png` ← `group_016/064.jpg`
+
+Source root: `/Users/admin/Downloads/陈翔海报2026-08-26`.
+
 Canonical authority: `../../references/original-prompt/zh-CN.md`.
