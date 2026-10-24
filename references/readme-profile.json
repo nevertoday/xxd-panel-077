@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 077｜Travel Magazine Illustration: rebuilds the subject, action, outline and scene of a photo as a minimal paper-sculpture collage — simplified shapes, crisp cut-paper edges, stacked front-to-back layers, light paper grain and soft shadows — with background trimmed away, generous whitespace, warm humanist macaron colours drawn from the photo (cream, oat, misty pink, peach, apricot, lemon cream, pale lake blue, misty violet, soft sage) instead of forest greens and sky blues, and a simple English magazine layout in small, slightly misprinted typewriter type with one short title and a few tiny lines. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Text in the design is English. Use when the user invokes xxd-panel-077 or asks for paper-cut collage, layered paper travel illustration or pastel travel-magazine poster art from a photo.",
+  "short_description": "旅行杂志画：把照片做成有纸张层次和柔和投影的马卡龙色纸雕拼贴，配英文杂志排版",
+  "zh-CN": {
+    "name": "旅行杂志画",
+    "tagline": "把照片做成一页有纸张层次、柔和投影和英文排版的纸雕旅行杂志。",
+    "look": "主体、人物动作和场景关系被概括成几层剪纸：轮廓清晰、前后叠放，能看到轻微纸纹、切边和柔和的投影，整体仍是干净的平面感。背景大多删去，只留下支撑情绪的少量元素和安静的留白。颜色从照片里最有温度的部分调出，是奶油白、燕麦色、雾粉、蜜桃粉、杏子橙、柠檬奶黄、浅湖蓝、雾紫这类明亮浅彩，不走深绿和天空蓝。文字是简约的英文杂志排版：一个简短标题加几行小字，用小号、略带印字偏差的打字机字体。",
+    "traits": ["极简纸雕拼贴", "清晰剪纸轮廓", "前后层叠", "柔和投影", "人文马卡龙", "旅行杂志排版"],
+    "good": [
+      "旅途中的地标和街景：钟楼、海边小屋、彩色街道、缆车",
+      "有人物动作的旅行瞬间：拖着行李的人、骑车的人、在咖啡馆看书的人",
+      "轮廓清楚、层次分明的风景：山和湖、港口和船、一片屋顶"
+    ],
+    "poor": [
+      "需要细节或写实质感的照片：人像特写、美食纹理、产品细节",
+      "以深绿森林、蓝天大海为主色、想保留原有自然配色的照片",
+      "需要中文标题、卡通贴纸拼盘或厚重 3D 塑料效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Travel Magazine Illustration",
+    "tagline": "Turns your photo into a layered paper-cut travel magazine page with soft shadows and English type.",
+    "look": "The subject, any action and the scene are simplified into a few layers of cut paper with crisp edges, stacked front to back, showing light paper grain, cut edges and soft shadows while staying clean and flat. Most of the background is removed, leaving only a few elements that carry the mood and plenty of quiet space. Colours are drawn from the warmest parts of the photo into bright pale tones such as cream, oat, misty pink, peach, apricot, lemon cream, pale lake blue and misty violet, avoiding deep greens and sky blues. Text is a simple English magazine layout: one short title and a few small lines in small, slightly misprinted typewriter type.",
+    "traits": ["Minimal paper collage", "Crisp cut-paper edges", "Front-to-back layers", "Soft shadows", "Humanist macaron colour", "Travel-magazine layout"],
+    "good": [
+      "Landmarks and streets from a trip: a clock tower, a beach hut, a colourful street, a cable car",
+      "Travel moments with a person in action: someone pulling a suitcase, cycling, reading in a café",
+      "Landscapes with clear outlines and layers: mountains and a lake, a harbour with boats, a spread of rooftops"
+    ],
+    "poor": [
+      "Photos that need detail or realistic texture: close-up portraits, food texture, product details",
+      "Photos dominated by deep forest greens or blue sky and sea where you want to keep those natural colours",
+      "Requests for Chinese titles, a cartoon sticker jumble or heavy plastic 3D"
+    ]
+  },
+  "ja": {
+    "name": "旅雑誌イラスト",
+    "tagline": "写真を、紙の重なりと柔らかな影、英文の組版がある切り紙の旅雑誌の一頁にします。",
+    "look": "主役、人の動き、場面の関係は数枚の切り紙にまとめられます。輪郭ははっきりと前後に重なり、かすかな紙の目、切り口、柔らかな影が見えますが、全体はすっきりした平面のままです。背景はほとんど省き、雰囲気を支える少しの要素と静かな余白だけを残します。色は写真のいちばん温かい部分から、クリームホワイト、オーツ、霧のようなピンク、ピーチ、アプリコット、レモンクリーム、淡い湖の青、霧の紫といった明るい淡色を作り、深い緑や空色は使いません。文字は簡潔な英文の雑誌レイアウトで、短いタイトルと数行の小さな文字を、少し印字のずれた小さなタイプライター書体で組みます。",
+    "traits": ["ミニマルな切り紙コラージュ", "くっきりした切り紙の輪郭", "前後の重なり", "柔らかな影", "人の温もりのあるマカロン色", "旅雑誌のレイアウト"],
+    "good": [
+      "旅先の名所や街並み：時計塔、海辺の小屋、カラフルな通り、ロープウェイ",
+      "人の動きがある旅の瞬間：スーツケースを引く人、自転車の人、カフェで本を読む人",
+      "輪郭と層がはっきりした風景：山と湖、港と船、並ぶ屋根"
+    ],
+    "poor": [
+      "細部や写実的な質感が必要な写真：人物のアップ、料理の質感、商品の細部",
+      "深い森の緑や青空と海が主役で、その自然な色を残したい写真",
+      "中国語のタイトル、漫画のステッカーの寄せ集め、重いプラスチックの 3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "여행 잡지 일러스트",
+    "tagline": "사진을 종이 층과 부드러운 그림자, 영문 조판이 있는 종이 오리기 여행 잡지 한 장으로 만듭니다.",
+    "look": "주인공과 인물의 동작, 장면의 관계는 몇 겹의 오린 종이로 정리됩니다. 윤곽은 또렷하고 앞뒤로 겹치며, 옅은 종이 결과 잘린 단면, 부드러운 그림자가 보이지만 전체는 깔끔한 평면감을 유지합니다. 배경은 대부분 덜어내고 분위기를 받치는 몇 가지 요소와 조용한 여백만 남깁니다. 색은 사진에서 가장 온기 있는 부분을 골라 크림 화이트, 귀리색, 안개 핑크, 복숭아색, 살구 오렌지, 레몬 크림, 연한 호수 파랑, 안개 보라 같은 밝은 파스텔로 만들고, 짙은 초록이나 하늘색은 쓰지 않습니다. 글자는 간결한 영문 잡지 레이아웃으로, 짧은 제목 하나와 작은 글 몇 줄을 살짝 인쇄가 어긋난 작은 타자기 서체로 넣습니다.",
+    "traits": ["미니멀 종이 콜라주", "또렷한 오린 종이 윤곽", "앞뒤 겹침", "부드러운 그림자", "인간적인 마카롱 색", "여행 잡지 레이아웃"],
+    "good": [
+      "여행지의 명소와 거리: 시계탑, 바닷가 오두막, 알록달록한 거리, 케이블카",
+      "사람의 동작이 담긴 여행 순간: 캐리어를 끄는 사람, 자전거 타는 사람, 카페에서 책 읽는 사람",
+      "윤곽과 층이 분명한 풍경: 산과 호수, 항구와 배, 펼쳐진 지붕들"
+    ],
+    "poor": [
+      "세부나 사실적 질감이 필요한 사진: 인물 클로즈업, 음식 질감, 제품 디테일",
+      "짙은 숲의 초록이나 파란 하늘과 바다가 주를 이루고 그 자연색을 지키고 싶은 사진",
+      "중국어 제목, 만화 스티커 모음, 무거운 플라스틱 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم مجلة السفر",
+    "tagline": "يحوّل صورتك إلى صفحة مجلة سفر من طبقات ورق مقصوص بظلال ناعمة ونص إنجليزي.",
+    "look": "يُبسَّط العنصر وحركة الأشخاص والمشهد إلى بضع طبقات من الورق المقصوص بحواف واضحة، متراكبة من الأمام إلى الخلف، تظهر فيها حبيبات ورق خفيفة وحواف القصّ وظلال ناعمة، مع بقاء المظهر نظيفاً ومسطّحاً. يُحذف معظم الخلفية، ولا يبقى إلا عناصر قليلة تحمل الجو وفراغ هادئ كثير. تُستخرج الألوان من أدفأ أجزاء الصورة إلى درجات فاتحة مشرقة كالكريمي ولون الشوفان والوردي الضبابي والخوخي والمشمشي والأصفر الليموني الكريمي والأزرق البحيري الفاتح والبنفسجي الضبابي، مع تجنّب الأخضر الداكن وأزرق السماء. والنص تنسيق مجلة إنجليزي بسيط: عنوان قصير وبضعة أسطر صغيرة بحرف آلة كاتبة صغير فيه انحرافات طباعية طفيفة.",
+    "traits": ["كولاج ورقي بسيط", "حواف ورق مقصوص واضحة", "طبقات أمامية وخلفية", "ظلال ناعمة", "ألوان ماكرون إنسانية", "تنسيق مجلة سفر"],
+    "good": [
+      "معالم وشوارع من رحلة: برج ساعة، كوخ على الشاطئ، شارع ملوّن، تلفريك",
+      "لحظات سفر فيها شخص يتحرك: شخص يجرّ حقيبة، راكب دراجة، قارئ في مقهى",
+      "مناظر طبيعية واضحة المحيط والطبقات: جبال وبحيرة، ميناء وقوارب، امتداد من الأسطح"
+    ],
+    "poor": [
+      "صور تحتاج إلى تفاصيل أو ملمس واقعي: صور الوجوه القريبة، ملمس الطعام، تفاصيل المنتجات",
+      "صور يغلب عليها أخضر الغابات الداكن أو زرقة السماء والبحر وتريد الإبقاء على ألوانها الطبيعية",
+      "طلب عناوين صينية أو خليط ملصقات كرتونية أو مظهر بلاستيكي ثلاثي الأبعاد ثقيل"
+    ]
+  }
+}
